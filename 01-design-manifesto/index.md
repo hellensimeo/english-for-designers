@@ -10,7 +10,7 @@ As [Flusser](http://thepoliticsofdesign.com](https://seansturm.wordpress.com/200
 Design isn’t neutral—it’s a choice that impacts people’s lives. Influenced by thinkers like Flusser and [Ruben Pater](http://thepoliticsofdesign.com), I believe that every design decision carries weight. We need to consider the broader implications of our work: Are we empowering or manipulating? Each design should reflect the world we want to live in.
 
 #### Design is Never Done
-I as well, see design is an ongoing process, not a final product. It’s about learning, adapting, and evolving. Just like with the unexpected response to my poster, I’m always open to feedback and change. As 37signals says, “Make progress, not perfection.” Every project is an opportunity to learn and improve, and that’s what drives me forward.
+I as well, see design is an ongoing process, not a final product. It’s about learning, adapting, and evolving. Just like with the unexpected response to my manifesto, I’m always open to feedback and change. As 37signals says, “Make progress, not perfection.” Every project is an opportunity to learn and improve, and that’s what drives me forward.
 
 #### Design is About Creating Change
 I believe that design is a service to society. And like any service, it should be done with intention—it should serve people well.
