@@ -1,13 +1,19 @@
 # First Impressions
 
 #### Favourite examples of bios
-Pater Ruben [1](https://www.untold-stories.net/rubenpater/),[2](https://framerframed.nl/en/mensen/ruben-pater/), Michelle Losekoot [1](https://losekoot.cz), Michael Petrus [1](https://michaelpetrus.com), 
+Pater Ruben [1](https://www.untold-stories.net/rubenpater/),[2](https://framerframed.nl/en/mensen/ruben-pater/) - Ethical focus - his commitment to ethical design reflects my own belief that design should serve people authentically and responsibly; choice of topics + journalism + activism + design = showcase of how design can serve society
 
+Michelle Losekoot [1](https://losekoot.cz) - playful and engaging style, clarity and simplicity above all
+Michael Petrus [1](https://michaelpetrus.com) - diverse experience, blending professional experience with personal interests like gaming and movies
+
+
+Other awesome examples:
 Justin Gagne [1](https://justingagne.design/#contact)
 Betty Soldi [1](https://www.bettysoldi.com)
-Riad Sattouf [1](https://www.riadsattouf.com/en/products/biographie)
 
-Visual inspo [1](https://manifesto.itsoffbrand.com)
+Visual inspo:
+OFF+Brand [1](https://manifesto.itsoffbrand.com) - dynamic
+Riad Sattouf [1](https://www.riadsattouf.com/en/products/biographie) - personal touch in logo
 
 # My bio
 
