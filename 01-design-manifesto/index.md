@@ -21,3 +21,4 @@ Design should be honest. People deserve to know exactly what they’re interacti
 
 
 ![IMG_5629](https://github.com/user-attachments/assets/23a6298c-7ce9-411c-beb9-d01b68d9b2ee)
+[Presentation](/MydesignManifesto.pdf)
