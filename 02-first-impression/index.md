@@ -1,6 +1,6 @@
 # First Impressions
 
-#### Examples of bios
+#### Favourite examples of bios
 Pater Ruben [1](https://www.untold-stories.net/rubenpater/),[2](https://framerframed.nl/en/mensen/ruben-pater/), Michelle Losekoot [1](https://losekoot.cz), Michael Petrus [1](https://michaelpetrus.com), 
 
 Justin Gagne [1](https://justingagne.design/#contact)
