@@ -49,4 +49,8 @@ Project scope: Preparation of recruitment, campaign 2024/2025, Preparing for bra
 Implementation: The People Who Change the World concept clearly won the final round of testing and is currently being applied. Today, you can see posters and billboards on the streets of Prague as well as a specially designed tram.
 
 
-Call to action - view project
+Call to action - contact
+*catchy invitation*
+
++420 773 521 510
+simonovahelena7@gmail.com
