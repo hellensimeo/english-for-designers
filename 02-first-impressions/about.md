@@ -5,8 +5,13 @@
 
 Ahoj! I'm Helena - graphic designer that likes to sell stuff and tell visual stories. 
 
-My goal? Helping you sell your products and create experience that works. I’m good at creating design that’s smart, funny, and gets results.
-I’m just finishing my studies of Graphic Design  at VŠKK (Prague university of creative communication). I’m working as a designer for  a few small, impactful brands, like Umění energie, Akademie čchi-kung.
+I like a challenge and can quickly get to grips with a wide range of topics. I can process, analyze and, most importantly, retell them to different target groups.
+My broader portfolio includes packaging, branding, campaign development, board game design, book and magazine typesetting, and digital design.
 
-I’m always open to new projects
-— one of them could be yours.
+I master the holy trinity: Ai, Ps and Id. I bring my projects to life in After/Premier and Figma. 
+And I also display my designs today by working with a number of AI models. My favorite thing about my business is working in a team. 
+And in my spare time I like to animate - in Procreate.
+
+
+
+Let’s face your KOBAYASHI MARU test together
