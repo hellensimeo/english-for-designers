@@ -1,5 +1,6 @@
 - [Home](index.md)
 - [About](about.md)
+- [Helena's work manifesto](helen's-work-manifesto)
 
 ## Ahoj!
 
