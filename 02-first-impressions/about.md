@@ -7,7 +7,7 @@
 
 I like a challenge and can quickly get to grips with a wide range of topics. I can process, analyze and, most importantly, retell them to different target groups.
 
-My broader portfolio includes packaging, branding, campaign development, board game design, book and magazine typesetting, and digital design. I’m finishing my studies of Graphic Design  at VŠKK (Prague university of creative communication). I’m working as a designer for  a few small, impactful brands.
+My broader portfolio includes packaging, branding, campaign development, board game design, book and magazine typesetting, and digital design. I’m finishing my studies of Graphic Design  at VŠKK (Prague university of creative communication) and working as a designer for  a few small, impactful brands.
 
 ### Recruiters:
 
