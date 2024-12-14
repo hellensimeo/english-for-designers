@@ -1,6 +1,5 @@
 - [Home](index.md)
 - [About](about.md)
-- [What it is like to work with Helen](helen's-work-manifesto.md)
 
 
 # Helen's Work Manifesto
