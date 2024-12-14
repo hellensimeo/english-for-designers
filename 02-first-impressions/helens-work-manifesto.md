@@ -5,7 +5,9 @@
 # Helen's Work Manifesto
 
 #### Let's bring that "What If" to Life
-Are you ready to take your brand to the next level? I’ll partner with you to understand your vision, story, and audience. I'll craft a product experience that resonates with your audience. With my diverse skills in design, storytelling, and strategy, we'll choose the best tools that work - for you. Build something that aligns with your brand and speaks to your goals. 
+Are you ready to take your brand to the next level? I’ll partner with you to understand your vision, story, and audience. I'll craft a product experience that resonates with your audience. 
+
+We'll choose the best tools that work - for you. Build something that aligns with your brand and speaks to your goals. 
 <br>
 <br>
 
@@ -16,7 +18,7 @@ There is no better way to speed up the start of a new collaboration than to meet
 #### Design with Transparency, Not Tricks
 A brand or product is an answer. My job is to search for the question behind it: who asked? Who wants what we offer? This isn’t just about understanding your customers—it’s about avoiding manipulation. 
 
-* When it comes to selling, always ask yourself, “If the other person had the same information as me, would they make the same decision?” Ethical, transparent sales not only build lasting relationships—they strengthen your business.
+* When it comes to selling, it it is important to ask, “If the other person had the same information as me, would they make the same decision?” Ethical, transparent sales not only build lasting relationships—they strengthen your business.
 <br><br>
 
 #### Ethical Design
