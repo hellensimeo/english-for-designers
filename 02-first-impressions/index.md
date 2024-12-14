@@ -1,10 +1,9 @@
-- [Home](index.md)
 - [About](about.md)
-- [Helena's work manifesto](helen's-work-manifesto)
+- [What it is like to work with Helen](helen's-work-manifesto)
 
 
 
-# I'm Helena - graphic designer that likes to sell stuff and tell visual stories. 
+# I'm Helen - graphic designer that likes to sell stuff and tell visual stories. 
 
 My goal? Helping you sell your products and create experience that works. I’m good at creating design that’s smart and gets results. See for yourself!
 
