@@ -41,7 +41,7 @@ Atelier project under the direction of Martin Marušinec from Touch Branding
 
 Magazine typesetting
 
-<img src="images/HS-tennis.jpg" alt="drawing" width="900"/> 
+<img src="images/HS-epravo.jpg" alt="drawing" width="900"/> 
 
 Working on the redesign of EPRAVO.CZ Magazine was a challenge! Our task was to come up with  a creative solution for an inherently (little changing) formal space. The current design corresponds to the time and purpose it fulfilled  25 years ago - an information medium. Today, the printed form of the magazine has a different role.  It points to prestige. 
 
@@ -62,7 +62,7 @@ Helena Simonová, Klára Svobodová (front cover)
 
 Tender for recruitment campaign for CEVRO Institute
 
-<img src="images/HS-tennis.jpg" alt="drawing" width="900"/> 
+<img src="images/HS-CEVRO.jpg" alt="drawing" width="900"/> 
 
 We have prepared a recruitment campaign for the CEVRO University of Applied Sciences focused mainly on Generation Z. The campaign presents  a new brand proposition that appeals to those who want to actively influence the world around them. The main objective was to raise awareness of the brand and motivate those interested to apply. As part of the tender, Kreativní Kancl came up with two concepts both of which were selected for testing and one of which is currently being implemented.
 
