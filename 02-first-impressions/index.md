@@ -63,7 +63,7 @@ Tender for recruitment campaign for CEVRO Institute
 
 <img src="images/HS-CEVRO.png" alt="drawing" width="900"/> 
 
-We have prepared a recruitment campaign for the CEVRO University of Applied Sciences focused mainly on Generation Z. The campaign presents  a new brand proposition that appeals to those who want to actively influence the world around them. The main objective was to raise awareness of the brand and motivate those interested to apply. As part of the tender, Kreativní Kancl came up with two concepts both of which were selected for testing and one of which is currently being implemented.
+We have prepared a recruitment campaign for the CEVRO Institute focused mainly on Generation Z. The campaign presents  a new brand proposition that appeals to those who want to actively influence the world around them. The main objective was to raise awareness of the brand and motivate those interested to apply. As part of the tender, Kreativní Kancl came up with two concepts both of which were selected for testing and one of which is currently being implemented.
 
 #### Creators: 
 
