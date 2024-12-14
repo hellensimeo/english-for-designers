@@ -12,7 +12,7 @@ My broader portfolio includes packaging, branding, campaign development, board g
 ### Recruiters:
 
 I master the holy trinity: Ai, Ps and Id. I bring my projects to life in After/Premier Pro and Figma. 
-Today, I showcase my designs using a variety of AI models to illustrate my ideas. My favorite thing about my business is working in a team. 
+Today, I showcase my designs using a variety of AI models to illustrate my ideas. My favorite thing about our field is working in a team. 
 And in my spare time I like to animate - in Procreate.
 
 
