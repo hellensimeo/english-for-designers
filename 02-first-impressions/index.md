@@ -17,7 +17,7 @@ I’m always open to new projects
 Rebranding
 ### Meaningful project title that tells me something more about the project - Tennis
 
-Picture
+<img src="HS-tennis.jpg" alt="drawing" width="400"/> 
 
 A new visual style that brings together a community that is otherwise every man for himself. The goal of the project was to create  a strong and memorable brand that could represent Czech professional tennis players at tournaments around the world as well as  bring together enthusiastic tennis amateurs.
 
