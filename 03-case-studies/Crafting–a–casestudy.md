@@ -2,6 +2,7 @@
 
 1th lesson
 ## CZECH TENNIS
+
 ### A fragmented sport in need of a strong identity
 
 A new visual style that brings together a community that is otherwise every man for himself.
