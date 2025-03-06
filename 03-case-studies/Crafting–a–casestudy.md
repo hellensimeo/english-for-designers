@@ -25,8 +25,10 @@ tennis amateurs.
 
 <img src="images/HS-tennis.jpg" alt="drawing" width="900"/> 
 <img src="images/HS-tennis-why-rebranding.jpg" alt="drawing" width="900"/> 
-<img src="images/HS-tennis-naplavkka.jpg" alt="drawing" width="900"/> 
+logo video
+merch mockup
 <img src="images/HS-tennis-player.png" alt="drawing" width="900"/> 
 <img src="images/HS-tennis-app.jpg" alt="drawing" width="900"/> 
-<img src="images/HS-tennis-social-media.png" alt="drawing" width="900"/> 
 <img src="images/HS-tennis-web.jpg" alt="drawing" width="900"/> 
+<img src="images/HS-tennis-social-media.png" alt="drawing" width="900"/> 
+<img src="images/HS-tennis-naplavkka.jpg" alt="drawing" width="900"/> 
