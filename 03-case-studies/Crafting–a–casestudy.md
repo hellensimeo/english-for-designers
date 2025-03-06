@@ -1,5 +1,6 @@
 # Crafting a casestudy
 
+1th lesson
 ## CZECH TENNIS
 ### A fragmented sport in need of a strong identity
 
@@ -30,7 +31,14 @@ The project was named the overall best-rated work and earned a spot at the Nápl
 
 > VŠKK (prague school of creative communication) is a college specializing in creative fields such as media communications. The Náplavkka exhibition itself serves as a platform to showcase the best student projects, allowing them to reach a broader audience and highlighting the significant impact of well-executed design.  
 
+<p/>
+<p/>
+<p/>
+<p/>
+<p/>
+<p/>
 
+## 2nd lesson
 <img src="images/HS-tennis.jpg" alt="drawing" width="900"/> 
 <img src="images/HS-tennis-why-rebranding.jpg" alt="drawing" width="900"/> 
 logo video
