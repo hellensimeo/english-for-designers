@@ -3,6 +3,11 @@
 1th lesson
 ## CZECH TENNIS
 
+We had no time to start small. Czech tennis was the last sport waiting for a rebrand, and everything needed to change—immediately. I took charge of the brand identity, making sure Czech tennis would have a strong and unified visual presence. At the same time, our team tackled every other aspect of the transformation— we designed the app, social media, and managed everything in between, including creating the presentation video.
+
+
+With the Czech Tennis Association facing financial scandals, leadership changes, and a damaged reputation, we knew this was about more than just design. It was a chance to reset Czech tennis—giving it an identity that could unite both professionals and everyday players, making it recognizable on courts around the world.
+
 ### A fragmented sport in need of a strong identity
 
 A new visual style that brings together a community that is otherwise every man for himself.
