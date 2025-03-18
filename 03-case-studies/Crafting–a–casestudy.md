@@ -3,7 +3,11 @@
 
 # Uniting CZECH TENNIS
   
-We had no time to start small. ČTS was the last sport waiting for a rebrand, and everything needed to change—immediately.
+We had no time to start small. [ČTS](https://www.cztenis.cz) was the last sport waiting for a rebrand, and everything needed to change—immediately.
+
+<div style="display: flex; justify-content: center; align-items: center; height: 200px; border: 1px solid black; padding: 40px; text-align: center; font-size: 18px; width: 60%; margin: 20px auto;">
+    The ČTS (Czech Tennis Association) was facing financial scandals. Leadership changes! And definitely a damaged reputation.  
+</div>
 
 The ČTS (Czech Tennis Association) was facing financial scandals. Leadership changes! And definitely a damaged reputation.  
 
