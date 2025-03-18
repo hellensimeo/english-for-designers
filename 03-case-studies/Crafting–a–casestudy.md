@@ -1,7 +1,7 @@
 # Crafting a casestudy
 
 
-## Uniting CZECH TENNIS
+# Uniting CZECH TENNIS
   
 We had no time to start small. ČTS was the last sport waiting for a rebrand, and everything needed to change—immediately.
 
@@ -11,24 +11,19 @@ The project was about more than just design. It was a chance to reset Czech tenn
 
 <img src="images/endless_scrolling.gif" alt="drawing" width="800"/>
 
-<sub>ČTS's web right now<sub>
+<sub>Current ČTS design<sub>
 
   <img src="images/team.jpg" alt="drawing" width="800"/>
 
-<sub>Our team<sub>
+<sub>Our team brainstorming what we're going to do with it<sub>
 
 ### A fragmented sport in need of a strong identity
-
-A new visual style that brings together a community that is otherwise every man for himself.
-The goal of the project was to create a strong and memorable brand that could represent Czech
-professional tennis players at tournaments around the world as well as bring together enthusiastic
-tennis amateurs.
 
 The need for a complete transformation of the visual style also follows the transformation  of the visual identities of other Czech sports. During the design process, my colleagues and  I were looking for a representation of Czech tennis that would stand out on both the local and international scene.
 
 <img src="images/HS-tennis-why-rebranding.jpg" alt="drawing" width="900"/>  
 
-<sub>Why do we need to rebrand<sub>
+<sub>Development of other Czech sports brands<sub>
 
 ### Beyond the logo: A full-scale transformation
 #### Typography with the right spin
