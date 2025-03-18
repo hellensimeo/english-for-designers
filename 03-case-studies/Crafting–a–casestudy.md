@@ -1,13 +1,13 @@
 # Crafting a casestudy
 
 
-## CZECH TENNIS
-
+## Uniting CZECH TENNIS
+  
 We had no time to start small. Czech tennis was the last sport waiting for a rebrand, and everything needed to change—immediately. I took charge of the brand identity, making sure Czech tennis would have a strong and unified visual presence. At the same time, our team tackled every other aspect of the transformation— we designed the app, social media, and managed everything in between, including creating the presentation video.
 
-<img src="images/team.jpg" alt="drawing" width="900"/> 
-
-With the Czech Tennis Association facing financial scandals, leadership changes, and a damaged reputation, we knew this was about more than just design. It was a chance to reset Czech tennis—giving it an identity that could unite both professionals and everyday players, making it recognizable on courts around the world.
+  <img src="images/team.jpg" alt="drawing" width="900"/>
+  
+With the Czech Tennis Association facing financial scandals, leadership changes, and a damaged reputation, we knew this was about more than just design. New name. It was a chance to reset Czech tennis—giving it an identity that could unite both professionals and everyday players, making it recognizable on courts around the world.
 
 ### A fragmented sport in need of a strong identity
 
@@ -52,20 +52,20 @@ The project was named the overall best-rated work and earned a spot at the Nápl
 > VŠKK (prague school of creative communication) is a college specializing in creative fields such as media communications. The Náplavkka exhibition itself serves as a platform to showcase the best student projects, allowing them to reach a broader audience and highlighting the significant impact of well-executed design.  
 <img src="images/HS-tennis-naplavkka.jpg" alt="drawing" width="900"/>
 
-<p/>
-<p/>
-<p/>
-<p/>
-<p/>
-<p/>
+#### Creators: 
 
-## 2nd lesson
-<img src="images/HS-tennis.jpg" alt="drawing" width="900"/> 
-<img src="images/HS-tennis-why-rebranding.jpg" alt="drawing" width="900"/> 
-logo video
-merch mockup
-<img src="images/HS-tennis-player.png" alt="drawing" width="900"/> 
-<img src="images/HS-tennis-app.jpg" alt="drawing" width="900"/> 
-<img src="images/HS-tennis-web.jpg" alt="drawing" width="900"/> 
-<img src="images/HS-tennis-social-media.png" alt="drawing" width="900"/> 
-<img src="images/HS-tennis-naplavkka.jpg" alt="drawing" width="900"/> 
+Helena Simonová, Filip Kovalský, Tomáš Jindrák, Marharyta Reviakina
+
+#### Project scope: 
+
+- Analysis
+- Logo redesign 
+- Visual identity
+- Communication style
+- Web design
+- Application design
+- Motion design
+- Design for social media
+- Merchandise
+
+
