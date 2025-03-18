@@ -3,11 +3,13 @@
 
 ## Uniting CZECH TENNIS
   
-We had no time to start small. Czech tennis was the last sport waiting for a rebrand, and everything needed to change—immediately. I took charge of the brand identity, making sure Czech tennis would have a strong and unified visual presence. At the same time, our team tackled every other aspect of the transformation— we designed the app, social media, and managed everything in between, including creating the presentation video.
+We had no time to start small. Czech tennis was the last sport waiting for a rebrand, and everything needed to change—immediately. New name, new beginning. 
 
-  <img src="images/team.jpg" alt="drawing" width="900"/>
-  
-With the Czech Tennis Association facing financial scandals, leadership changes, and a damaged reputation, we knew this was about more than just design. New name. It was a chance to reset Czech tennis—giving it an identity that could unite both professionals and everyday players, making it recognizable on courts around the world.
+With the Czech Tennis Association facing financial scandals, leadership changes, and a damaged reputation, we knew this was about more than just design. It was a chance to reset Czech tennis—giving it an identity that could unite both professionals and everyday players, making it recognizable on courts around the world.
+
+I took charge of the brand identity, making sure Czech tennis would have a strong and unified visual presence. At the same time, our team tackled every other aspect of the transformation— we designed the app, social media, and managed everything in between, including creating the presentation video. Just take a look!
+
+  <img src="images/team.jpg" alt="drawing" width="800"/>
 
 ### A fragmented sport in need of a strong identity
 
@@ -24,20 +26,31 @@ The need for a complete transformation of the visual style also follows the tran
 #### Typography with the right spin
 Specially designed font. What's for Czechs and the Czech Republic more characteristic than special diacritic?  The new typography supports the trend of incorporating diacritics into the body of letters. The punctuation also symbolizes the strength of the and speed of a flying tennis ball. Ideal for dynamic animations!
 
-<img src="images/HS-tennis.jpg" alt="drawing" width="900"/> 
+<video width="640" height="360" controls>
+  <source src="[https://raw.githubusercontent.com/username/repository/main/video.mp4](https://github.com/hellensimeo/english-for-designers/blob/main/03-case-studies/images/HS-logo-motion.mp4)" type="video/mp4">
+</video>
 
 #### Game, set, merch
 Proud tennis fans will appreciate the new merch, which is written not only on badges, headbands and wristbands but also directly on tennis jerseys. The visual identity is written across the players' equipment. So it's always in plain sight and contributes to connect the community of tennis players  and spectators.
 
+<img src="images/HS-tennis.jpg" alt="drawing" width="900"/> 
 <img src="images/HS-tennis-player.png" alt="drawing" width="900"/> 
 
 #### Tennis in your pocket (app)
-„Tenis ten máme my Češi v kapse.“ (Czechs have tennis in the pocket =  we nailed it.) As part of the rebranding, we also worked on a new Czech Tennis app. It provides tennis fans with an overview of current matches, results and a map of courts where they can go to play. 
+>„Tenis ten máme my Češi v kapse.“
+>(Czechs have tennis in the pocket =  we nailed it.)
+
+As part of the rebranding, we also worked on a new Czech Tennis app. It provides tennis fans with an overview of current matches, results and a map of courts where they can go to play. 
 
 <img src="images/HS-tennis-app.jpg" alt="drawing" width="900"/> 
 
 #### Web for all who score
 As part of the project, the ČTS website also underwent a major transformation. Its new design is based on simplicity and clarity. A few clicks are now enough to access all important information and functions. Easy to navigate and navigation on the website is nowadays is the standard for successful communication.
+
+space for:
+- articles
+- photos
+- events
 
 <img src="images/HS-tennis-web.jpg" alt="drawing" width="900"/> 
 
