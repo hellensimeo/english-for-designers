@@ -34,6 +34,7 @@ The need for a complete transformation of the visual style also follows the tran
 #### Typography with the right spin
 Specially designed font. What's for Czechs and the Czech Republic more characteristic than special diacritic?  The new typography supports the trend of incorporating diacritics into the body of letters. The punctuation also symbolizes the strength of the and speed of a flying tennis ball. Ideal for dynamic animations!
 <img src="images/HS-logo-motion-2.gif" alt="drawing" width="900"/>
+
 <sub>New motion design<sub>
 
 #### Game, set, merch
@@ -51,6 +52,8 @@ As part of the rebranding, we also worked on a new Czech Tennis app. It provides
 
 <img src="images/HS-tennis-app.jpg" alt="drawing" width="900"/> 
 
+<sub>New app design<sub>
+
 #### Web for all who score
 As part of the project, the ČTS website also underwent a major transformation. Its new design is based on simplicity and clarity. A few clicks are now enough to access all important information and functions. Easy to navigate and navigation on the website is nowadays is the standard for successful communication.
 
@@ -61,16 +64,23 @@ space for:
 
 <img src="images/HS-tennis-web.jpg" alt="drawing" width="900"/> 
 
+<sub>New web design<sub>
+
 #### Breaking the net (social media)
 Our take: Instagram posts directly through the network.The goal is to reach as wide a base of tennis fans as possible. New posts are therefore divided into three categories: daily posts with information, inspirational posts where ambassadors and famous players explain tennis to kids and teenagers, and interesting facts about the world of tennis and its history.
 
 <img src="images/HS-tennis-social-media.png" alt="drawing" width="900"/>
 
+<sub>Social media design<sub>
+
 ### We are keeping score
 The project was named the overall best-rated work and earned a spot at the Náplavkka exhibition to represent VŠKK. 
 
 > VŠKK (prague school of creative communication) is a college specializing in creative fields such as media communications. The Náplavkka exhibition itself serves as a platform to showcase the best student projects, allowing them to reach a broader audience and highlighting the significant impact of well-executed design.  
+
 <img src="images/HS-tennis-naplavkka.jpg" alt="drawing" width="900"/>
+
+<sub>Náplavkka exhibition<sub>
 
 #### Creators: 
 
