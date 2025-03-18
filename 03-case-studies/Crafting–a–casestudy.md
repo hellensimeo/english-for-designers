@@ -3,13 +3,16 @@
 
 ## Uniting CZECH TENNIS
   
-We had no time to start small. Czech tennis was the last sport waiting for a rebrand, and everything needed to change—immediately. New name, new beginning. 
+We had no time to start small. ČTS was the last sport waiting for a rebrand, and everything needed to change—immediately.
 
-With the Czech Tennis Association facing financial scandals, leadership changes, and a damaged reputation, we knew this was about more than just design. It was a chance to reset Czech tennis—giving it an identity that could unite both professionals and everyday players, making it recognizable on courts around the world.
+The ČTS (Czech Tennis Association) was facing financial scandals. Leadership changes! And definitely a damaged reputation.  
 
-I took charge of the brand identity, making sure Czech tennis would have a strong and unified visual presence. At the same time, our team tackled every other aspect of the transformation— we designed the app, social media, and managed everything in between, including creating the presentation video. Just take a look!
+The project was about more than just design. It was a chance to reset Czech tennis. Giving it an identity that could unite both professionals and everyday players.  Making it recognizable on courts around the world. I took charge of the brand identity, making sure Czech tennis would have a strong and unified visual presence. At the same time, our team tackled every other aspect of the transformation. We designed the app, social media, and managed everything in between. Just take a look!
+
+<img src="images/endless_scrolling.gif" alt="drawing" width="800"/>
 
   <img src="images/team.jpg" alt="drawing" width="800"/>
+
 
 ### A fragmented sport in need of a strong identity
 
@@ -20,21 +23,19 @@ tennis amateurs.
 
 The need for a complete transformation of the visual style also follows the transformation  of the visual identities of other Czech sports. During the design process, my colleagues and  I were looking for a representation of Czech tennis that would stand out on both the local and international scene.
 
-<img src="images/HS-tennis-why-rebranding.jpg" alt="drawing" width="900"/> 
+<img src="images/HS-tennis-why-rebranding.jpg" alt="drawing" width="900"/>  
 
 ### Beyond the logo: A full-scale transformation
 #### Typography with the right spin
 Specially designed font. What's for Czechs and the Czech Republic more characteristic than special diacritic?  The new typography supports the trend of incorporating diacritics into the body of letters. The punctuation also symbolizes the strength of the and speed of a flying tennis ball. Ideal for dynamic animations!
+<img src="images/HS-logo-motion-2.gif" alt="drawing" width="900"/>
 
-<video width="640" height="360" controls>
-  <source src="[https://raw.githubusercontent.com/username/repository/main/video.mp4](https://github.com/hellensimeo/english-for-designers/blob/main/03-case-studies/images/HS-logo-motion.mp4)" type="video/mp4">
-</video>
 
 #### Game, set, merch
 Proud tennis fans will appreciate the new merch, which is written not only on badges, headbands and wristbands but also directly on tennis jerseys. The visual identity is written across the players' equipment. So it's always in plain sight and contributes to connect the community of tennis players  and spectators.
 
 <img src="images/HS-tennis.jpg" alt="drawing" width="900"/> 
-<img src="images/HS-tennis-player.png" alt="drawing" width="900"/> 
+
 
 #### Tennis in your pocket (app)
 >„Tenis ten máme my Češi v kapse.“
@@ -81,4 +82,5 @@ Helena Simonová, Filip Kovalský, Tomáš Jindrák, Marharyta Reviakina
 - Design for social media
 - Merchandise
 
+<img src="images/HS-tennis-player.png" alt="drawing" width="900"/> 
 
