@@ -21,6 +21,10 @@ The project was about more than just design. It was a chance to reset Czech tenn
 
 The need for a complete transformation of the visual style also follows the transformation  of the visual identities of other Czech sports. During the design process, my colleagues and  I were looking for a representation of Czech tennis that would stand out on both the local and international scene.
 
+Czech sports were evolving. Their visual identities were changing, modernizing. Czech tennis couldn’t stay behind.
+It needed a complete transformation.
+During the design process, my colleagues and I searched for a look that set Czech tennis apart. Something bold. Something unmistakable. It had to stand out—both at home and on the world stage.
+
 <img src="images/HS-tennis-why-rebranding.jpg" alt="drawing" width="900"/>  
 
 <sub>Development of other Czech sports brands<sub>
