@@ -5,10 +5,6 @@
   
 We had no time to start small. [ČTS](https://www.cztenis.cz) was the last sport waiting for a rebrand, and everything needed to change—immediately.
 
-<div style="display: flex; justify-content: center; align-items: center; height: 200px; border: 1px solid black; padding: 40px; text-align: center; font-size: 18px; width: 60%; margin: 20px auto;">
-    The ČTS (Czech Tennis Association) was facing financial scandals. Leadership changes! And definitely a damaged reputation.  
-</div>
-
 The ČTS (Czech Tennis Association) was facing financial scandals. Leadership changes! And definitely a damaged reputation.  
 
 The project was about more than just design. It was a chance to reset Czech tennis. Giving it an identity that could unite both professionals and everyday players.  Making it recognizable on courts around the world. I took charge of the brand identity, making sure Czech tennis would have a strong and unified visual presence. At the same time, our team tackled every other aspect of the transformation. We designed the app, social media, and managed everything in between. Just take a look!
