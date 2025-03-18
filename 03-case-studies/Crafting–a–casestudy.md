@@ -11,8 +11,11 @@ The project was about more than just design. It was a chance to reset Czech tenn
 
 <img src="images/endless_scrolling.gif" alt="drawing" width="800"/>
 
+<sub>ČTS's web right now<sub>
+
   <img src="images/team.jpg" alt="drawing" width="800"/>
 
+<sub>Our team<sub>
 
 ### A fragmented sport in need of a strong identity
 
@@ -25,17 +28,20 @@ The need for a complete transformation of the visual style also follows the tran
 
 <img src="images/HS-tennis-why-rebranding.jpg" alt="drawing" width="900"/>  
 
+<sub>Why do we need to rebrand<sub>
+
 ### Beyond the logo: A full-scale transformation
 #### Typography with the right spin
 Specially designed font. What's for Czechs and the Czech Republic more characteristic than special diacritic?  The new typography supports the trend of incorporating diacritics into the body of letters. The punctuation also symbolizes the strength of the and speed of a flying tennis ball. Ideal for dynamic animations!
 <img src="images/HS-logo-motion-2.gif" alt="drawing" width="900"/>
-
+<sub>New motion design<sub>
 
 #### Game, set, merch
 Proud tennis fans will appreciate the new merch, which is written not only on badges, headbands and wristbands but also directly on tennis jerseys. The visual identity is written across the players' equipment. So it's always in plain sight and contributes to connect the community of tennis players  and spectators.
 
 <img src="images/HS-tennis.jpg" alt="drawing" width="900"/> 
 
+<sub>Young tennis player<sub>
 
 #### Tennis in your pocket (app)
 >„Tenis ten máme my Češi v kapse.“
