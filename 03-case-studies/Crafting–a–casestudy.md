@@ -3,15 +3,18 @@
 
 # Uniting CZECH TENNIS
   
-We had no time to start small. [ČTS](https://www.cztenis.cz) was the last sport waiting for a rebrand, and everything needed to change—immediately.
+We had no time to start small. [ČTS](https://www.cztenis.cz) is the last sport waiting for a rebrand, and everything needed to change—immediately.
 
-The ČTS (Czech Tennis Association) was facing financial scandals. Leadership changes! And definitely a damaged reputation.  
+The ČTS (Czech Tennis Association) was facing financial scandals. Leadership changes! And definitely a damaged reputation. The project was a chance to reset Czech tennis. Giving it an identity that could unite both professionals and everyday players.  Making it recognizable on courts around the world. 
 
-The project was about more than just design. It was a chance to reset Czech tennis. Giving it an identity that could unite both professionals and everyday players.  Making it recognizable on courts around the world. I took charge of the brand identity, making sure Czech tennis would have a strong and unified visual presence. At the same time, our team tackled every other aspect of the transformation. We designed the app, social media, and managed everything in between. Just take a look!
+
+
+I took charge of the brand identity, making sure Czech tennis would have a strong and unified visual presence. At the same time, our team tackled every other aspect of the transformation. We designed the app, social media, and managed everything in between. Just take a look!
 
 <img src="images/endless_scrolling.gif" alt="drawing" width="800"/>
 
 <sub>Current ČTS design<sub>
+
 
   <img src="images/team.jpg" alt="drawing" width="800"/>
 
@@ -19,15 +22,19 @@ The project was about more than just design. It was a chance to reset Czech tenn
 
 ### A fragmented sport in need of a strong identity
 
-The need for a complete transformation of the visual style also follows the transformation  of the visual identities of other Czech sports. During the design process, my colleagues and  I were looking for a representation of Czech tennis that would stand out on both the local and international scene.
-
-Czech sports were evolving. Their visual identities were changing, modernizing. Czech tennis couldn’t stay behind.
-It needed a complete transformation.
-During the design process, my colleagues and I searched for a look that set Czech tennis apart. Something bold. Something unmistakable. It had to stand out—both at home and on the world stage.
+Czech sports were evolving. Before, it was all shields, serifs, and sports logos stuck somewhere between 1995 and a government office. Now? Clean lines. Confident type. Bold colors. And lions — lots of lions. Just take a look:
 
 <img src="images/HS-tennis-why-rebranding.jpg" alt="drawing" width="900"/>  
 
 <sub>Development of other Czech sports brands<sub>
+
+Czech tennis couldn’t stay behind. During the design process, my colleagues and I searched for a look that set Czech tennis apart. Looking for:
+
+>_Something bold._ 
+
+>_Something unmistakable._
+
+>_Something that stands out — both at home and on the world stage._
 
 ### Beyond the logo: A full-scale transformation
 #### Typography with the right spin
