@@ -1,50 +1,63 @@
-# Crafting a casestudy
+# Czech Tennis
 
+<img src="images/top-picture.png" alt="drawing" width="1350"/>
 
-# Uniting CZECH TENNIS
-  
-We had no time to start small. [ČTS](https://www.cztenis.cz) is the last sport waiting for a rebrand, and everything needed to change—immediately.
+## Background  
+We had no time to start small. [ČTS](https://www.cztenis.cz) is the last sport waiting for a rebrand, and everything needed to change—immediately. The ČTS (Czech Tennis Association) was facing financial scandals. Leadership changes! And definitely a damaged reputation. The project was a chance to reset Czech tennis. Giving it an identity that could unite both professionals and everyday players.  Making it recognizable on courts around the world. 
 
-The ČTS (Czech Tennis Association) was facing financial scandals. Leadership changes! And definitely a damaged reputation. The project was a chance to reset Czech tennis. Giving it an identity that could unite both professionals and everyday players.  Making it recognizable on courts around the world. 
+__Goal of the project__
 
+Rebuild the public image and identity of Czech Tennis — fast
 
+__My team__
 
-I took charge of the brand identity, making sure Czech tennis would have a strong and unified visual presence. At the same time, our team tackled every other aspect of the transformation. We designed the app, social media, and managed everything in between. Just take a look!
+Our team consisted of four graphic designers - Filip Kovalský, Tomáš Jindrák, Marharyta Reviakina and me.
 
-<img src="images/endless_scrolling.gif" alt="drawing" width="800"/>
+__Role__
 
-<sub>Current ČTS design<sub>
+Graphic designer | Motion designer | Project manager
 
+__Dates__
 
-  <img src="images/team.jpg" alt="drawing" width="800"/>
+April 2024 
 
-<sub>Our team brainstorming what we're going to do with it<sub>
+## Process
 
-### A fragmented sport in need of a strong identity
+We sat down with our client and looked at how other Czech sports had transformed — new logos, national colors, and lions..? _"No lions for us."_, said the client. 
 
-Czech sports were evolving. Before, it was all shields, serifs, and sports logos stuck somewhere between 1995 and a government office. Now? Clean lines. Confident type. Bold colors. And lions — lots of lions. Just take a look:
+>(And we said, "Aha?"))
 
-<img src="images/HS-tennis-why-rebranding.jpg" alt="drawing" width="900"/>  
+<img src="images/HS-tennis-why-rebranding.jpg" alt="drawing" width="1350"/>  
 
 <sub>Development of other Czech sports brands<sub>
 
-Czech tennis couldn’t stay behind. During the design process, my colleagues and I searched for a look that set Czech tennis apart. Looking for:
 
->_Something bold._ 
+So we started brainstorming. Sketch after sketch, idea after idea — some wild, some weird, some already forgotten. 
 
->_Something unmistakable._
+<sub>(((We had a (Miro) board full of directions, and none of them felt quite right.)))<sub>
 
->_Something that stands out — both at home and on the world stage._
+We were one round of presentations to not winning the "client" over.
 
-### Beyond the logo: A full-scale transformation
-#### Typography with the right spin
-Specially designed font. What's for Czechs and the Czech Republic more characteristic than special diacritic?  The new typography supports the trend of incorporating diacritics into the body of letters. The punctuation also symbolizes the strength of the and speed of a flying tennis ball. Ideal for dynamic animations!
-<img src="images/HS-logo-motion-2.gif" alt="drawing" width="900"/>
+<img src="images/team.png" alt="drawing" width="1350"/>
+
+<sub>Us brainstorming<sub>
+
+And then it clicked. Our design was clean, modern, and — most importantly — ready to move. 
+
+While other teams focused on static visuals, we leaned into motion from the start. Our identity was designed to live in movement, just like the sport it represented.
+
+<img src="images/HS-logo-motion-2.gif" alt="drawing" width="1350"/>
 
 <sub>New motion design<sub>
 
+### Beyond the logo: A full-scale transformation
+
 #### Game, set, merch
 Proud tennis fans will appreciate the new merch, which is written not only on badges, headbands and wristbands but also directly on tennis jerseys. The visual identity is written across the players' equipment. So it's always in plain sight and contributes to connect the community of tennis players  and spectators.
+
+<img src="images/HS-tennis-player.png" alt="drawing" width="900"/> 
+
+<sub>famous tennis player<sub>
 
 <img src="images/HS-tennis.jpg" alt="drawing" width="900"/> 
 
@@ -88,21 +101,4 @@ The project was named the overall best-rated work and earned a spot at the Nápl
 
 <sub>Náplavkka exhibition<sub>
 
-#### Creators: 
-
-Helena Simonová, Filip Kovalský, Tomáš Jindrák, Marharyta Reviakina
-
-#### Project scope: 
-
-- Analysis
-- Logo redesign 
-- Visual identity
-- Communication style
-- Web design
-- Application design
-- Motion design
-- Design for social media
-- Merchandise
-
-<img src="images/HS-tennis-player.png" alt="drawing" width="900"/> 
 
