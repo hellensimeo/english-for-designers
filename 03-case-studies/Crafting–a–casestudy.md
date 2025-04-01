@@ -3,7 +3,7 @@
 <img src="images/top-picture.png" alt="drawing" width="1350"/>
 
 ## Background  
-We had no time to start small. [ČTS](https://www.cztenis.cz) was the last sport waiting for a rebrand, and everything needed to change—immediately. The ČTS (Czech Tennis Association) was facing financial scandals. Leadership changes! And definitely a damaged reputation. The project was a chance to reset Czech tennis. Giving it an identity that could unite both professionals and everyday players.  Making it recognizable on courts around the world. 
+We had no time to start small. [ČTS](https://www.cztenis.cz) was the last sport waiting for a rebrand, and everything needed to change - immediately. The ČTS (Czech Tennis Association) was facing financial scandals. Leadership changes! And definitely a damaged reputation. The project was a chance to reset Czech tennis. Giving it an identity that could unite both professionals and everyday players.  Making it recognizable on courts around the world. 
 
 __Goal of the project__
 
@@ -23,7 +23,7 @@ April 2024
 
 ## Process
 
-We sat down with our "client" and looked at how other Czech sports had transformed — new logos, national colors, and lions..? _"No lions for us."_, said the client. 
+We sat down with our "client" and looked at how other Czech sports had transformed: new logos, national colors, and lions..? _"No lions for us."_, said the client. 
 
 >((And we said, "Aha?"))
 
@@ -55,7 +55,7 @@ Sport isn’t static, and tennis least of all. So we built a system that could m
 
 What’s more Czech than (lions and) diacritics?
 
-Czech tennis design had to feel representative, yet still "český". So we designed a font where the accent mark wasn’t just sitting on top — it was built into the body of the letter itself.
+Czech tennis design had to feel representative, yet still "český". So we designed a font where the accent mark wasn’t just sitting on top - it was built into the body of the letter itself.
 
 ### Beyond the logo: A full-scale transformation
 
