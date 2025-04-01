@@ -3,7 +3,7 @@
 <img src="images/top-picture.png" alt="drawing" width="1350"/>
 
 ## Background  
-We had no time to start small. [ČTS](https://www.cztenis.cz) is the last sport waiting for a rebrand, and everything needed to change—immediately. The ČTS (Czech Tennis Association) was facing financial scandals. Leadership changes! And definitely a damaged reputation. The project was a chance to reset Czech tennis. Giving it an identity that could unite both professionals and everyday players.  Making it recognizable on courts around the world. 
+We had no time to start small. [ČTS](https://www.cztenis.cz) was the last sport waiting for a rebrand, and everything needed to change—immediately. The ČTS (Czech Tennis Association) was facing financial scandals. Leadership changes! And definitely a damaged reputation. The project was a chance to reset Czech tennis. Giving it an identity that could unite both professionals and everyday players.  Making it recognizable on courts around the world. 
 
 __Goal of the project__
 
@@ -23,16 +23,16 @@ April 2024
 
 ## Process
 
-We sat down with our client and looked at how other Czech sports had transformed — new logos, national colors, and lions..? _"No lions for us."_, said the client. 
+We sat down with our "client" and looked at how other Czech sports had transformed — new logos, national colors, and lions..? _"No lions for us."_, said the client. 
 
->(And we said, "Aha?"))
+>((And we said, "Aha?"))
 
 <img src="images/HS-tennis-why-rebranding.jpg" alt="drawing" width="1350"/>  
 
 <sub>Development of other Czech sports brands<sub>
 
 
-So we started brainstorming. Sketch after sketch, idea after idea — some wild, some weird, some already forgotten. 
+So we started brainstorming. Sketch after sketch, idea after idea, some wild, some weird, some (luckily) already forgotten. 
 
 <sub>(((We had a (Miro) board full of directions, and none of them felt quite right.)))<sub>
 
@@ -42,9 +42,12 @@ We were one round of presentations to not winning the "client" over.
 
 <sub>Us brainstorming<sub>
 
-And then it clicked. Our design was clean, modern, and — most importantly — ready to move. 
+And then it clicked. 
 
-While other teams focused on static visuals, we leaned into motion from the start. Our identity was designed to live in movement, just like the sport it represented.
+Our rebrand was in motion — quite literally. From the start, we treated movement not as an add-on, but as a core part of the identity. 
+
+Sport isn’t static, and tennis least of all. So we built a system that could move with it.
+
 
 <img src="images/HS-logo-motion-2.gif" alt="drawing" width="1350"/>
 
