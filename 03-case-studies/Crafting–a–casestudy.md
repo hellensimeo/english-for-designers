@@ -53,10 +53,14 @@ Sport isn’t static, and tennis least of all. So we built a system that could m
 
 <sub>New motion design<sub>
 
+What’s more Czech than (lions and) diacritics?
+
+Czech tennis design had to feel representative, yet still "český". So we designed a font where the accent mark wasn’t just sitting on top — it was built into the body of the letter itself.
+
 ### Beyond the logo: A full-scale transformation
 
 #### Game, set, merch
-Proud tennis fans will appreciate the new merch, which is written not only on badges, headbands and wristbands but also directly on tennis jerseys. The visual identity is written across the players' equipment. So it's always in plain sight and contributes to connect the community of tennis players  and spectators.
+The logo was just the beginning. Proud tennis fans could appreciate the new merch - not only badges, headbands and wristbands but also directly tennis jerseys. The visual identity is written across the players' equipment. So it's always in plain sight.
 
 <img src="images/HS-tennis-player.png" alt="drawing" width="900"/> 
 
@@ -77,7 +81,7 @@ As part of the rebranding, we also worked on a new Czech Tennis app. It provides
 <sub>New app design<sub>
 
 #### Web for all who score
-As part of the project, the ČTS website also underwent a major transformation. Its new design is based on simplicity and clarity. A few clicks are now enough to access all important information and functions. Easy to navigate and navigation on the website is nowadays is the standard for successful communication.
+ČTS website also underwent a major transformation. Its new design was based on simplicity and clarity. A few clicks were now enough to access all important information and functions. Easy to navigate and navigation on the website is nowadays the standard for successful communication.
 
 space for:
 - articles
@@ -89,7 +93,7 @@ space for:
 <sub>New web design<sub>
 
 #### Breaking the net (social media)
-Our take: Instagram posts directly through the network.The goal is to reach as wide a base of tennis fans as possible. New posts are therefore divided into three categories: daily posts with information, inspirational posts where ambassadors and famous players explain tennis to kids and teenagers, and interesting facts about the world of tennis and its history.
+Our take: The goal was to reach as wide a base of tennis fans as possible. New posts were therefore divided into three categories: daily posts with information, inspirational posts where ambassadors and famous players explain tennis to kids and teenagers, and interesting facts about the world of tennis and its history.
 
 <img src="images/HS-tennis-social-media.png" alt="drawing" width="900"/>
 
