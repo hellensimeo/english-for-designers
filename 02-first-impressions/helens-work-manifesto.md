@@ -57,4 +57,4 @@ Now - Let’s create something great together.
 
 phone number
 
-helenasimonova7@gmail.com
+simonovahelena7@gmail.com
