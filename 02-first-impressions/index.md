@@ -3,9 +3,9 @@
 
 
 
-# I'm Helen - graphic designer that likes to sell stuff and tell visual stories. 
+# HI!
 
-My goal? Helping you sell your products and create experience that works. I’m good at creating design that’s smart and gets results. See for yourself!
+I'm Helena, graphic designer who likes to sell stuff  & tell visual stories.
 
 ## Uniting Czech Tennis
 
