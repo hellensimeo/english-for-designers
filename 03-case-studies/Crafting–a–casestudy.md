@@ -115,4 +115,26 @@ The project was named the overall best-rated work and earned a spot at the Nápl
 
 <sub>Náplavkka exhibition<sub>
 
+### My Role
+
+I led the project as both designer and coordinator. Along the way, I:
+
+– came up with the concept and shaped the whole identity
+
+– designed a custom movement-inspired alphabet
+
+– chose the color palette and crafted the motion design
+
+– kept an eye on every piece the team worked on to make sure it all fits together
+
+– and created the final poster for the Náplavkka exhibition
+
+Role of my wonderful team:
+
+🎾 Filip took charge of UI/UX,
+
+🎾 Marharyta shaped the presentation,
+
+🎾 Tomáš created the final motion piece and helped wherever it was needed.
+
 
