@@ -1,6 +1,6 @@
 # Czech Tennis
 
-<img src="images/top-picture.png" alt="drawing" width="1350"/>
+<img src="HS-tennis.webp" alt="drawing" width="1350"/>
 
 ## Background  
 We had no time to start small. [ČTS](https://www.cztenis.cz) was the last sport waiting for a rebrand, and everything needed to change - immediately. The ČTS (Czech Tennis Association) was facing financial scandals. Leadership changes! And definitely a damaged reputation. The project was a chance to reset Czech tennis. Giving it an identity that could unite both professionals and everyday players.  Making it recognizable on courts around the world. 
