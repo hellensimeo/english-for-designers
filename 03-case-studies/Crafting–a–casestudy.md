@@ -31,14 +31,19 @@ We sat down with our "client" and looked at how other Czech sports had transform
 
 <sub>Development of other Czech sports brands<sub>
 
+<img src="images/team.png" alt="drawing" width="1350"/>
+
+<sub>Us brainstorming<sub>
+
 
 So we started brainstorming. Sketch after sketch, idea after idea, some wild, some weird, some (luckily) already forgotten. 
 
-<sub>(((We had a (Miro) board full of directions, and none of them felt quite right.)))<sub>
+<sub>(((We had a (Miro) board full of directions, and none of them felt quite right.So we deleted one or two and then...)))<sub>
 
+WE HAD NOTHING
+
+<img src="toolbar-overview.png" alt="drawing" width="1350"/>
 We were one round of presentations to not winning the "client" over.
-
-<img src="images/team.png" alt="drawing" width="1350"/>
 
 <sub>Us brainstorming<sub>
 
