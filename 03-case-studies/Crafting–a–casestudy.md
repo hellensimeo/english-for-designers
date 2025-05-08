@@ -43,24 +43,26 @@ So we started brainstorming. Sketch after sketch, idea after idea, some wild, so
 WE HAD NOTHING
 
 <img src="toolbar-overview.png" alt="drawing" width="1350"/>
+
+<sub>(Miro board)<sub>
+
 We were one round of presentations to not winning the "client" over.
 
 <sub>Us brainstorming<sub>
 
 And then it clicked. 
 
-Our rebrand was in motion — quite literally. From the start, we treated movement not as an add-on, but as a core part of the identity. 
+What’s more Czech than (lions and) diacritics?
 
-Sport isn’t static, and tennis least of all. So we built a system that could move with it.
-
+Czech tennis design had to feel representative, yet still "český". So we designed a font where the accent mark wasn’t just sitting on top - it was built into the body of the letter itself.
 
 <img src="images/HS-logo-motion-2.gif" alt="drawing" width="1350"/>
 
 <sub>New motion design<sub>
 
-What’s more Czech than (lions and) diacritics?
+Our rebrand was in motion — quite literally. From the start, we treated movement not as an add-on, but as a core part of the identity. 
 
-Czech tennis design had to feel representative, yet still "český". So we designed a font where the accent mark wasn’t just sitting on top - it was built into the body of the letter itself.
+Sport isn’t static, and tennis least of all. So we built a system that could move with it.
 
 ### Beyond the logo: A full-scale transformation
 
