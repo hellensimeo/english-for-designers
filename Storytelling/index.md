@@ -1,6 +1,6 @@
 ## Storytelling
 
-[Presentation](Storytelling/storytelling.pdf)
+[Presentation](storytelling.pdf)
 
 #### 1st slide:
 
