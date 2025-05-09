@@ -1,4 +1,6 @@
-## Transcript
+## Storytelling
+
+[Presentation](Storytelling/storytelling.pdf)
 
 #### 1st slide:
 
